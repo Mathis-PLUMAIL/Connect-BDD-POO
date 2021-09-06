@@ -1,6 +1,6 @@
 # Connect-BDD-POO
 
-Connection of a database in PHP OOP with try and catch
+Connection of a database in PHP OOP with try and catch - 
 Connexion d'une base de données en PHP POO avec try and catch
 
 $bdd = Database::connect(); // on se connecte à la base - we connect to the database
